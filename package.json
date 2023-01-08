@@ -1,0 +1,12 @@
+{
+  "name": "chia-blockwins-probe",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Chia fullnode probe to retrieve blockwins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farmer Diamonds - IT Service Provider GmbH",
+  "license": "MIT"
+}
